@@ -4,20 +4,20 @@
 Ekene Okoli
 ## Team Assistant 
 Belle Oyindamola 
-## Rest of the Group
-Osondu Poka
-Ifeoluwa Aramide
-Hilary Adebowale
-Jimoh Oyindamola
-Ekenne Kehinde
-Omoniyi Oluwatosin
-Mayowa Akintoye
-Chidebere Daniel
-Mujhiz Godswill
-UD
-Onamade Seunbabara
-Lucky
-Emm Law
+## Group Members
+Osondu Poka<br>
+Ifeoluwa Aramide<br>
+Hilary Adebowale<br>
+Jimoh Oyindamola<br>
+Ekenne Kehinde<br>
+Omoniyi Oluwatosin<br>
+Mayowa Akintoye<br>
+Chidebere Daniel<br>
+Mujhiz Godswill<br>
+UD<br>
+Onamade Seunbabara<br>
+Lucky<br>
+Emm Law<br>
 
 <img src="./images/group-contributions.jpg">
 # Style Guide
