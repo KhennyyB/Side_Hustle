@@ -1,1 +1,1 @@
-Image Content
+# Images used for webpage design
