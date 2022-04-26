@@ -1,4 +1,4 @@
-# Side_Hustle Group_25 Project
+# Side_Hustle Group_25 Capstone Project
 
 # Style Guide
 
