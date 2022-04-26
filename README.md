@@ -1,5 +1,25 @@
 # Side_Hustle Group_25 Capstone Project
 
+## Team Lead
+Ekene Okoli
+## Team Assistant 
+Belle Oyindamola 
+## Rest of the Group
+Osondu Poka
+Ifeoluwa Aramide
+Hilary Adebowale
+Jimoh Oyindamola
+Ekenne Kehinde
+Omoniyi Oluwatosin
+Mayowa Akintoye
+Chidebere Daniel
+Mujhiz Godswill
+UD
+Onamade Seunbabara
+Lucky
+Emm Law
+
+<img src="./images/group-contributions.jpg">
 # Style Guide
 
 ## Layout
