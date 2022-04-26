@@ -3,12 +3,12 @@
 ## Team Lead
 Ekene Okoli
 ## Team Assistant 
-Belle Oyindamola 
+Jimoh Oyindamola 
 ## Group Members
 Osondu Poka<br>
 Ifeoluwa Aramide<br>
 Hilary Adebowale<br>
-Jimoh Oyindamola<br>
+Bello Oyindamola<br>
 Ekenne Kehinde<br>
 Omoniyi Oluwatosin<br>
 Mayowa Akintoye<br>
