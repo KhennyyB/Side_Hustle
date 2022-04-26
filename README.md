@@ -5,7 +5,7 @@ Ekene Okoli
 ## Team Assistant 
 Jimoh Oyindamola 
 ## Group Members
-Osondu Poka<br>
+Osondu Chinonso Godwill (Poka)<br>
 Ifeoluwa Aramide<br>
 Hilary Adebowale<br>
 Bello Oyindamola<br>
