@@ -20,6 +20,7 @@ Lucky<br>
 Emm Law<br>
 
 <img src="./images/group-contributions.jpg">
+
 # Style Guide
 
 ## Layout
