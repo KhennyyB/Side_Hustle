@@ -13,7 +13,7 @@ Ekenne Kehinde<br>
 Omoniyi Oluwatosin<br>
 Mayowa Akintoye<br>
 Chidebere Daniel<br>
-Mujhiz Godswill<br>
+Mgborogwu Godswill (Mujhiz)<br>
 UD<br>
 Onamade Seunbabara<br>
 Lucky<br>
